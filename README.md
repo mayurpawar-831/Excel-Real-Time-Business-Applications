@@ -12,8 +12,8 @@ This repository contains a collection of tools and templates for solving real-ti
 
 2. **Scenario Planning Tool**
    - **Formats**:
-     1. '.pdf' (https://github.com/mayurpawar-831/Excel-Real-Time-Business-Applications/blob/main/Scenario%20Planning%20Tool.pdf)
-     2. '.xlsx' (https://github.com/mayurpawar-831/Excel-Real-Time-Business-Applications/blob/main/Scenario%20Planning%20Tool.xlsx)
+   1. '.pdf' (https://github.com/mayurpawar-831/Excel-Real-Time-Business-Applications/blob/main/Scenario%20Planning%20Tool.pdf)
+   2. '.xlsx' (https://github.com/mayurpawar-831/Excel-Real-Time-Business-Applications/blob/main/Scenario%20Planning%20Tool.xlsx)
    - The scenario planning tool allows businesses to simulate different business scenarios by adjusting variables such as revenue, cost, and market conditions. This helps in understanding the potential impacts on business outcomes under various circumstances.
 
 ## Features
