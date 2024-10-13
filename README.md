@@ -5,11 +5,13 @@ This repository contains a collection of tools and templates for solving real-ti
 ## Tools Included
 
 1. **Project Priority Matrix**
-   - **Formats**: '.pdf', '.xlsx'
+   - **Formats**: '.pdf' (https://github.com/mayurpawar-831/Excel-Real-Time-Business-Applications/blob/main/Project%20Priority%20Matrix.pdf),
+                  '.xlsx' (https://github.com/mayurpawar-831/Excel-Real-Time-Business-Applications/blob/main/Project%20Priority%20Matrix.xlsx)
    - This tool helps prioritize projects based on multiple criteria such as impact, effort, and urgency. It enables users to make data-driven decisions on which projects should be prioritized.
 
 2. **Scenario Planning Tool**
-   - **Formats**: '.pdf', '.xlsx'
+   - **Formats**: '.pdf' (https://github.com/mayurpawar-831/Excel-Real-Time-Business-Applications/blob/main/Scenario%20Planning%20Tool.pdf),
+                  '.xlsx' (https://github.com/mayurpawar-831/Excel-Real-Time-Business-Applications/blob/main/Scenario%20Planning%20Tool.xlsx)
    - The scenario planning tool allows businesses to simulate different business scenarios by adjusting variables such as revenue, cost, and market conditions. This helps in understanding the potential impacts on business outcomes under various circumstances.
 
 ## Features
