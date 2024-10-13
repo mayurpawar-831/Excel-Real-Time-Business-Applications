@@ -33,11 +33,4 @@ This repository contains a collection of tools and templates for solving real-ti
 - **Microsoft Excel 2013 or later** for the best experience.
 - Basic knowledge of Excel for data input and analysis.
 
-## Getting Started
-
-1. Clone the repository:
-      https://github.com/mayurpawar-831/Excel-Real-Time-Business-Applications.git
-2. Open the desired `.xlsx` file to start using the tool.
-
-
 
