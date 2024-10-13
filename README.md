@@ -32,9 +32,7 @@ This repository contains a collection of tools and templates for solving real-ti
 ## Getting Started
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/mayurpawar-831/Excel-Real-Time-Business-Applications.git
-   ```
+      https://github.com/mayurpawar-831/Excel-Real-Time-Business-Applications.git
 2. Open the desired `.xlsx` file to start using the tool.
 
 
