@@ -1,4 +1,4 @@
-# Excel Real-Time Business Applications
+# Real-Time Business Applications
 
 This repository contains a collection of tools and templates for solving real-time business problems using Microsoft Excel. These tools are designed to assist in scenario planning and project prioritization, two critical aspects of business decision-making.
 
